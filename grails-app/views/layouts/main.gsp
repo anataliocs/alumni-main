@@ -49,7 +49,10 @@
     <!-- Google Captcha -->
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
-
+    <!-- Share This -->
+    <script type="text/javascript">var switchTo5x = true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
 
     <g:layoutHead/>
     <g:if test="${grailsApplication.config.grails.tdx.showprivatedata}">

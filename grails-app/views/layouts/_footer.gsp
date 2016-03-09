@@ -162,3 +162,21 @@
     </div><br/>
 
 </footer>
+
+
+<!-- Share This -->
+<script type="text/javascript">stLight.options({
+    publisher: "6662bd1d-ced7-4b49-8016-731a39dce57f",
+    doNotHash: false,
+    doNotCopy: false,
+    hashAddressBar: false
+});</script>
+<script>
+    var options = {
+        "publisher": "6662bd1d-ced7-4b49-8016-731a39dce57f",
+        "position": "left",
+        "ad": {"visible": false, "openDelay": 5, "closeDelay": 0},
+        "chicklets": {"items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}
+    };
+    var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>

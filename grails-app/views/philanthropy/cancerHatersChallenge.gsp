@@ -89,6 +89,12 @@
 
             We raised $3,125 for the VCU Massey Cancer Center in partnership with Still Easier than Chemo this year.
 
+            <br/>
+            <a href="http://www.stilleasierthanchemo.com/2015/10/3rd-annual-24-hour-cancer-hater-challenge-recap/"
+               target="_blank">
+                <i class="fa fa-fast-backward"></i> View a recap here</a>
+            <br/><br/>
+
             <img class="img-thumbnail"
                  src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1445711695/TDX_banner-1_ze5aem.jpg"/><br/>
 
