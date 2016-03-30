@@ -2,10 +2,10 @@
 
 
 <div class="well well-sm text-center">
-    <img src="${resource(dir: 'images', file: 'portraits/ahmad-mojaddidi.jpg')}" alt="Philanthropy"
+    <img src="<g:message code='tdx.labels.officer.name.philanthropy.img.src'/>" alt="Philanthropy"
          class="img-thumbnail"
          height="60"
-         width="60">
+         width="60"/>
 
     <h3>Contact our Philanthropy Chair:</h3>
     <i class="fa fa-user fa-2x fa-fw"></i> <span><g:message

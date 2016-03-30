@@ -44,7 +44,7 @@
                         </g:if>
                     </sec:ifAllGranted>
                     <li class="${philanthropySelected}">
-                        <a href="<g:createLink controller='philanthropy' action='event'/>">
+                        <a href="<g:createLink controller='philanthropy' action='autismSpeaks2016'/>">
                             <i class="fa fa-child"></i> Philantrophy</a>
                     </li>
 

@@ -191,8 +191,20 @@
         <div class="col-md-12 text-center">
             <p class="lead">
 
-                <strong>Xi Marks the Spot</strong><br/>
-                We raised $1,666 for Autism Speaks in partnership with Alpha Xi Delta this year.
+                <strong>Xi Marks the Spot 2016</strong><br/>
+                <img class="img-thumbnail" width="40%" height="40%"
+                     src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1459308878/tdx-prof2_h5sj7e.jpg"/>
+
+            </p>
+
+            <p class="lead">
+                Xi Marks the Spot is an event stationed all around the VCU campus with 10 different stations. Sisters will lead teams to each station. Upon completion of a station a puzzle piece is awarded to this team. Once all 10 puzzle pieces are
+                collected it's a race back to the finish line to complete the puzzle and become the 2016 champions of Xi Marks the Spot!!
+
+                Event Registration Fee: $60
+
+                The last day to register for the Amaxing Challenge: Xi Marks the Spot is April 23rd, 2016.
+
             </p>
         </div>
     </div>
@@ -200,7 +212,8 @@
         <div class="col-md-4">&nbsp;</div>
 
         <div class="col-md-4">
-            <g:link controller="philanthropy" action="autismSpeaks" class="btn btn-primary btn-lg btn-block" role="button">
+            <g:link controller="philanthropy" action="autismSpeaks2016" class="btn btn-primary btn-lg btn-block"
+                    role="button">
                 <i class="fa fa-play-circle-o fa-3x"></i>
                 <br/>Learn More
             </g:link>
