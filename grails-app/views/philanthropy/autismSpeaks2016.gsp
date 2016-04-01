@@ -52,7 +52,7 @@
 
                             <h3>Helping raise Autism Awareness with Alpha Xi Delta in 2016</h3>
                         </hgroup>
-                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1Hf3MMa"
+                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1RQgCI4"
                            target="_blank">Join us today</a>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
 
                             <h3>An event stationed all around the VCU campus</h3>
                         </hgroup>
-                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1Hf3MMa"
+                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1RQgCI4"
                            target="_blank">Be part of a great event</a>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
 
                             <h3>Join the VCU Greek Community in helping a great cause</h3>
                         </hgroup>
-                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1Hf3MMa"
+                        <a class="btn btn-hero btn-lg" role="button" href="http://bit.ly/1RQgCI4"
                            target="_blank">Join now</a>
                     </div>
                 </div>
