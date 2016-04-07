@@ -95,12 +95,24 @@
     <!-- START THE FEATURETTES -->
     <div class="row text-center">
         <div class="col-md-6">
-            <img src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1459308019/304543_10150999588042496_771808679_n_1_cijwhn.jpg"/>
-
+            <a href="http://bit.ly/1RQgCI4"
+               target="_blank">
+                <img class="img-thumbnail img-responsive"
+                     src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1459308019/304543_10150999588042496_771808679_n_1_cijwhn.jpg"/>
+            </a>
         </div>
 
-        <div class="col-md-6">
-            <img src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1428482253/autismspeaks_dil9bd.gif"/>
+    <div class="row hidden-md hidden-lg">
+        <hr/>
+    </div>
+
+    <div class="col-md-6">
+        <a href="http://bit.ly/1RQgCI4"
+           target="_blank">
+            <img
+                    class="img-thumbnail img-responsive"
+                    src="http://res.cloudinary.com/huxxvk3tt/image/upload/v1428482253/autismspeaks_dil9bd.gif"/>
+        </a>
         </div>
     </div>
 
@@ -121,7 +133,15 @@
 
                 The last day to register for the Amaxing Challenge: Xi Marks the Spot is April 23rd, 2016.
 
-            </p>
+
+                <br/><hr/><br/>
+            <a class="btn btn-primary btn-lg btn-block" role="button" href="http://bit.ly/1RQgCI4"
+               target="_blank">
+                <i class="fa fa-play-circle-o fa-3x"></i>
+                <br/>Join Us!!!
+            </a>
+
+        </p>
 
             <hr class="featurette-divider">
 

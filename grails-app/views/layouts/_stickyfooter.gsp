@@ -90,9 +90,16 @@
 
                 <div class="row hidden-xs hidden-sm">
                     <div class="col-md-6">
-                        <button data-toggle="modal" data-target="#donateModal"
-                                class="navbar-btn btn btn-primary pull-right">
-                            <i class="fa fa-play-circle-o"></i> Donate to Rho Triton</button>
+
+                        <div class="btn-group pull-right" role="group" aria-label="..." style="margin-right: 5px;">
+                            <a class="btn btn-primary" role="button" href="http://bit.ly/1RQgCI4"
+                               target="_blank">Donate to Autism Speaks
+                                <i class="fa fa-child"></i></a>
+                            <button data-toggle="modal" data-target="#donateModal"
+                                    class="btn btn-primary">
+                                <i class="fa fa-play-circle-o"></i> Donate to Rho Triton</button>
+                        </div>
+
                     </div>
 
                 </div>

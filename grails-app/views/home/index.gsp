@@ -155,6 +155,19 @@
     </div>
     <br/>
     <div class="row center-block">
+        <div class="col-md-4">&nbsp;</div>
+
+        <div class="col-md-4">
+            <g:link controller="philanthropy" action="event" class="btn btn-primary btn-lg btn-block" role="button">
+                <i class="fa fa-play-circle-o fa-3x"></i>
+                <br/>Learn more!
+            </g:link>
+        </div>
+
+        <div class="col-md-4">&nbsp;</div>
+    </div>
+
+    <div class="row center-block">
         <div class="col-md-12 text-center">
             <p class="lead">
 
@@ -172,18 +185,7 @@
             </p>
         </div>
     </div>
-    <div class="row center-block">
-        <div class="col-md-4">&nbsp;</div>
 
-        <div class="col-md-4">
-            <g:link controller="philanthropy" action="event" class="btn btn-primary btn-lg btn-block" role="button">
-                <i class="fa fa-play-circle-o fa-3x"></i>
-                <br/>Learn more!
-            </g:link>
-        </div>
-
-        <div class="col-md-4">&nbsp;</div>
-    </div>
 
 <hr class="featurette-divider">
 <br/>
